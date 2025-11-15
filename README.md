@@ -12,8 +12,7 @@ From Google Form to Google Sheets to BigQuery to Looker Studio.
 * Looker Studio: Automated, interactive dashboard.
 
   ## Live Dashboard
-
-  [Click here to view the Automated Spending Analytics Dashboard]: (https://lookerstudio.google.com/reporting/0279983c-e3fb-4598-92f5-ade4686d622d)
+ [Click here to view the Automated Spending Analytics Dashboard]: (https://lookerstudio.google.com/reporting/0279983c-e3fb-4598-92f5-ade4686d622d)
 
   ## Dashboard Summary
   (Insights as of November 2025)
