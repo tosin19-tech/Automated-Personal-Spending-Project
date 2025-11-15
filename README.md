@@ -11,7 +11,7 @@ From Google Form to Google Sheets to BigQuery to Looker Studio.
 * BigQuery: Central analytical data warehouse.
 * Looker Studio: Automated, interactive dashboard.
 
-* Live Dashboard
+  ### Live Dashboard
  [Click here to view the Automated Spending Analytics Dashboard]: (https://lookerstudio.google.com/reporting/0279983c-e3fb-4598-92f5-ade4686d622d)
 
   ## Dashboard Summary
